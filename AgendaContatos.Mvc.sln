@@ -5,11 +5,16 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaContatos.Mvc", "AgendaContatos.Mvc\AgendaContatos.Mvc.csproj", "{2827C123-8A55-461E-AA0F-DDD7F9F62E10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaContatos.Data", "AgendaContatos.Data\AgendaContatos.Data.csproj", "{93D7E76E-C11F-444C-8D9C-50D1FA208281}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaContatos.Data", "AgendaContatos.Data\AgendaContatos.Data.csproj", "{93D7E76E-C11F-444C-8D9C-50D1FA208281}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation Layer", "1 - Presentation Layer", "{36CC3909-C21A-4F0E-8009-5BA82AA21BDB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Data Layer", "2 - Data Layer", "{341A10EF-53FF-4A0A-9B9B-F6A8D025A22F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3107E13D-08F0-4560-BC1E-013142F047FD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
